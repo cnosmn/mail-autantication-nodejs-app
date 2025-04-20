@@ -94,8 +94,8 @@ email-auth/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/cnosmn/mail-autantication-nodejs-app.git
-cd mail-autantication-nodejs-app
+git clone https://github.com/cnosmn/mail-authentication-nodejs-app.git
+cd mail-authentication-nodejs-app
 ```
 
 2. Install dependencies:
